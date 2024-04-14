@@ -98,5 +98,5 @@
  ["Dad n' me", "Whoop ass", "https://a.silvergames.com/j/b/dad-n-me.jpg", "/game/dad-n-me/index.html"],
      ["Deepest Sword", "put your long sword inside a dragon", "https://img.itch.zone/aW1nLzU3OTM0OTYuZ2lm/original/tRnag0.gif", "/game/sword/index.html"],
      ["Duck Life 5", "Farm!", "https://play-lh.googleusercontent.com/JQqSn7wuCj0SxBqpBThNI33qCR9gwY0str2TIAnu-m_xrVCgZk3IPxYK2S7zC9WG0ig", "/game/dl5/index.html"],
-     ["Football Legends", "Kick like messi!", "https://static.keygames.com/2/115292/101233/1024x1024/football-legends-2021.webp", "/game/football-legends/index.html"]
+     ["Football Legends", "Kick like messi!", "https://static.keygames.com/2/115292/101233/1024x1024/football-legends-2021.webp", "./game/football-legends/index.html"]
 ]
