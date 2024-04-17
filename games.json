@@ -60,7 +60,7 @@
     ["Drift Boss", "This is an epic game.", "./assets/drift-boss.jpg", "/game/drift-boss/index.html"],
     ["Swerve", "This is an epic game.", "./assets/swerve.jpg", "/game/swerve/index.html"],
     ["Snake", "Navigate different cities around the world in this rendition of the classic arcade game Snake.", "./assets/snake.jpg", "/game/snake/index.html"],
-    ["Zombs Royale", "Zombs Royale is a multiplayer survival game set in a Battle Royale arena.", "./assets/zombsroyale.jpg", "/game/zombsroyale/index.html"],
+    ["A small world cup", "A super fun football physics game!! Play fast matches of physics non-sense football fun! Unique Gameplay!", "./assets/asmallworldcup.avif", "/game/a-small-world-cup/index.html"],
     ["Sushi Unroll", "This is an epic game.", "./assets/sushi-unroll.png", "/game/sushi-unroll/index.html"],
     ["Crossy Road", "Crossy Road is the 8-bit endless arcade hopper that started it all.", "./assets/crossy-road.jpg", "/game/crossyroad/index.html"],
     ["Wordle", "Players have six attempts to guess a five-letter word, feedback is given for each guess. Have fun!", "./assets/wordle.png", "/game/wordle/index.html"],
