@@ -1,5 +1,5 @@
 # A1R!
-A game site made by Galactic Network!
+A game site made by Galactic Network, originally from blazer but the original owner from blazer gave it to me!
 *lol*
 
 
