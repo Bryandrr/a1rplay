@@ -1,6 +1,19 @@
-# A1R!
-A game site made by Galactic Network, originally from blazer but the original owner from blazer gave it to me!
-*lol*
+<p align="center"><img src="https://raw.githubusercontent.com/GalacticNetwork/astro-static/main/static/astro.png" height="200">
+</p>
 
+<h1 align="center"><strong>A1R</strong></h1>
+<p align="center">A complete</p>
 
-Credit to 3kh0 for the games!
+### Features:
+- games
+- automatic about:blank system
+- Clean UI
+- chatting section for your 'friends'
+- fast loading speeds
+# Credits
+- <a href="//github.com/beforeblazergithub">Blazer - Original site owner</a>
+# Deployment
+<a target="_blank" href="https://glitch.com/edit/#!/import/git?url=https://github.com/GalacticNetwork/a1rplay"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/GalacticNetwork/a1rplay"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
+<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/GalacticNetwork/a1rplay"><img alt="Deploy to Vercel" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg"></a>
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/GalacticNetwork/a1rplay"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
