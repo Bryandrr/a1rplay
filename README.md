@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/GalacticNetwork/astro-static/main/static/astro.png" height="200">
+<p align="center"><img src="https://raw.githubusercontent.com/GalacticNetwork/astro-static/main/static/A1R.png" height="200">
 </p>
 
 <h1 align="center"><strong>A1R</strong></h1>
