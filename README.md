@@ -5,11 +5,9 @@
 <p align="center">A complete</p>
 
 ### Features:
-- games
-- automatic about:blank system
-- Clean UI
-- chatting section for your 'friends'
-- fast loading speeds
+- 100+ games
+- extremely clean UI
+- about:blank system for games
 # Credits
 - <a href="//github.com/beforeblazergithub">Blazer - Original site owner</a>
 # Deployment
