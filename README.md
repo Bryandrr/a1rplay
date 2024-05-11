@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/GalacticNetwork/a1rplay/blob/main/A1R.png" height="200">
+<p align="center"><img src="https://rawcdn.rawgit.net/GalacticNetwork/a1rplay/16ccc3c7af9afd4db0d5fe5141b4dac5a2e70f78/A1R.png" height="200">
 </p>
 
 <h1 align="center"><strong>A1R</strong></h1>
