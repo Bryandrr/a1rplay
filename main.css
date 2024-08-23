@@ -12,6 +12,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    overflow-x:hidden;
     background-attachment: fixed;
 }
 
@@ -137,7 +138,7 @@ body {
 
 .content h2 {
     position: absolute;
-    top: 33%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -179,7 +180,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -20%);
     padding: 1.4vw 2.5vw;
     color: #fff;
     font-size: 2vw;
@@ -204,4 +205,92 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
+}
+
+.brand {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+.brand span {
+    color: #008cff;
+    text-shadow: 0 0 10px #008cff;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding: 20px;
+}
+
+@media (max-width:600px) {
+* {
+    overflow:hidden;
+}
+
+    .navbar {
+        background-color: #333;
+        color: white;
+        width: 250px;
+        height: 90vh;
+        position: fixed;
+        left: 0;
+        top: 0;
+        padding: 20px;
+    }
+    .content h1 {
+        font-size:12px;
+    }
+
+    .typewriter-container {
+        font-size:12px;
+    }
+
+    .typewriter-text {
+        font-size:12px;
+    }
+
+    .align {
+        position:relative;
+        top:20%;
+        left:50%;
+    }
+}
+
+.navbar h1 {
+    margin-bottom: 20px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navbar ul li {
+    margin: 15px 0;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    transition: background 0.3s ease;
+}
+
+.navbar ul li a:hover {
+    background-color: #333;
+}
+
+.content {
+    margin-left: 260px;
+    padding: 20px;
+    flex-grow: 1;
 }
